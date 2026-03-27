@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Canceling Headphones",
+    "price": 299.99,
+    "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life. Perfect for travel or focused work.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Leather Watch",
+    "price": 145.00,
+    "description": "Elegant timepiece featuring a genuine leather strap, quartz movement, and water resistance up to 30 meters.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "category": "Accessories",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Tracker",
+    "price": 89.95,
+    "description": "Monitor your heart rate, sleep, and daily activities. Includes a high-resolution AMOLED display.",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?q=80&w=800&auto=format&fit=crop",
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Eco-Friendly Yoga Mat",
+    "price": 45.00,
+    "description": "Premium non-slip yoga mat made from 100% natural, biodegradable rubber. Includes carrying strap.",
+    "image": "https://images.unsplash.com/photo-1599427303058-208bbedd0322?q=80&w=800&auto=format&fit=crop",
+    "category": "Fitness",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Pour-Over Coffee Maker",
+    "price": 38.50,
+    "description": "Hand-crafted ceramic dripper that ensures an even extraction for the perfect cup of coffee every morning.",
+    "image": "https://images.unsplash.com/photo-1511556820780-d912e42b4980?q=80&w=800&auto=format&fit=crop",
+    "category": "Home & Kitchen",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Ultra-Lightweight Tent",
+    "price": 249.99,
+    "description": "Compact, two-person tent designed for backpacking. Features weather-resistant fabric and easy setup.",
+    "image": "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?q=80&w=800&auto=format&fit=crop",
+    "category": "Outdoors",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "price": 129.99,
+    "description": "Tenkeyless mechanical keyboard with RGB backlighting, tactile switches, and a durable aluminum frame.",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?q=80&w=800&auto=format&fit=crop",
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Travel Duffel Bag",
+    "price": 110.00,
+    "description": "Water-resistant canvas bag with multiple compartments, a shoe pocket, and detachable shoulder strap.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+    "category": "Travel",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "price": 34.99,
+    "description": "Ultrasonic diffuser with 7 LED color lights, auto shut-off, and whisper-quiet operation.",
+    "image": "https://images.unsplash.com/photo-1608528577881-801b60163ee9?q=80&w=800&auto=format&fit=crop",
+    "category": "Home & Kitchen",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "name": "Stainless Steel Water Bottle",
+    "price": 28.00,
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours. BPA-free.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=800&auto=format&fit=crop",
+    "category": "Fitness",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Portable Bluetooth Speaker",
+    "price": 59.99,
+    "description": "Waterproof speaker with 360-degree sound, built-in mic, and a 12-hour playtime.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=800&auto=format&fit=crop",
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Ergonomic Office Chair",
+    "price": 199.50,
+    "description": "High-back mesh chair with adjustable lumbar support, headrest, and armrests for maximum comfort.",
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?q=80&w=800&auto=format&fit=crop",
+    "category": "Furniture",
+    "rating": 4.3
+  }
+]
